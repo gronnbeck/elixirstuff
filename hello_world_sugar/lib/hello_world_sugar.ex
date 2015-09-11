@@ -1,0 +1,2 @@
+defmodule HelloWorldSugar do
+end
