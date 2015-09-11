@@ -33,7 +33,7 @@ config :hello_world_sugar, HelloWorldSugar.Repos.Main,
 config :sugar,
   router: HelloWorldSugar.Router
 
-config :sugar, YourProject.Router,
+config :sugar, HelloWorldSugar.Router,
   https_only: false,
   http: [ port: 4000 ],
   https: false
